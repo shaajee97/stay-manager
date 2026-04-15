@@ -1,2 +1,2 @@
-# stay-manager
+# stay-manager 
 Airbnb + private booking manager
